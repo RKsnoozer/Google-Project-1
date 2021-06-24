@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(110, 110, 110);
+}
+
+#Google {
+    font-size: 72px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
