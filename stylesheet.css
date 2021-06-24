@@ -12,14 +12,23 @@ html {
 }
 
 body {
-    text-align: center;
+    width: 100%;
 }
 
 #search-bar {
-    text-align: center;
-    width: 40%;
-    background-color: green;
-    display: block;
+    width: 50%;
+    height: 40px;
+    background-color: red;
+    margin: auto;
+    
+}
+
+#search-lists {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    padding: 10px;
 }
 
 #trio {
