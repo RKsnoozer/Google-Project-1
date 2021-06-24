@@ -11,3 +11,17 @@ html {
     font-family: sans-serif;
 }
 
+body {
+    text-align: center;
+}
+
+#search-bar {
+    text-align: center;
+    width: 40%;
+    background-color: green;
+    display: block;
+}
+
+#trio {
+    display: inline;
+}
