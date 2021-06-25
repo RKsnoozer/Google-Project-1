@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(37, 37, 37);
 }
 
 #Google {
@@ -9,6 +9,8 @@ html {
     text-align: center;
     display: block;
     font-family: sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 body {
